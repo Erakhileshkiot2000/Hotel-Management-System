@@ -1,0 +1,12 @@
+E:\Hotel management system\Hotel management system\bin\Debug\Hotel management system.exe.config
+E:\Hotel management system\Hotel management system\bin\Debug\Hotel management system.exe
+E:\Hotel management system\Hotel management system\bin\Debug\Hotel management system.pdb
+E:\Hotel management system\Hotel management system\bin\Debug\Hotel management system.xml
+E:\Hotel management system\Hotel management system\obj\Debug\Hotel management system.vbprojAssemblyReference.cache
+E:\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.Form1.resources
+E:\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.Resources.resources
+E:\Hotel management system\Hotel management system\obj\Debug\Hotel management system.vbproj.GenerateResource.cache
+E:\Hotel management system\Hotel management system\obj\Debug\Hotel management system.vbproj.CoreCompileInputs.cache
+E:\Hotel management system\Hotel management system\obj\Debug\Hotel management system.exe
+E:\Hotel management system\Hotel management system\obj\Debug\Hotel management system.xml
+E:\Hotel management system\Hotel management system\obj\Debug\Hotel management system.pdb
